@@ -1,0 +1,12 @@
+Elephant
+Monkey
+Pig
+Zebra
+Banana
+Fish
+Dog
+Cat
+Apple
+Giraffe
+Horse
+Lion
